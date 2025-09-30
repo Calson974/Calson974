@@ -4,9 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Calson974)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cooljimmy974@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/681849054)
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Calson974&style=for-the-badge" alt="Profile views" />
-</p>
+
 
 > 🚀 Frontend Developer | Building beautiful, accessible, and high-performance web apps
 
@@ -69,6 +67,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Calson974&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Calson974&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calson974&theme=radical)
+
+---
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Calson974&style=for-the-badge" alt="Profile views" />
+</p>
 
 ---
 
